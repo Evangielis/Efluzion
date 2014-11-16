@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Efluzion", "Efluzion\Efluzion\Efluzion.csproj", "{97C6065F-CAE5-456C-83E3-AA69AD7C4317}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "EfluzionContent", "Efluzion\EfluzionContent\EfluzionContent.contentproj", "{5BA7A097-47CE-4CA6-A111-FF729241AB6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C6065F-CAE5-456C-83E3-AA69AD7C4317}.Debug|x86.ActiveCfg = Debug|x86
+		{97C6065F-CAE5-456C-83E3-AA69AD7C4317}.Debug|x86.Build.0 = Debug|x86
+		{97C6065F-CAE5-456C-83E3-AA69AD7C4317}.Release|x86.ActiveCfg = Release|x86
+		{97C6065F-CAE5-456C-83E3-AA69AD7C4317}.Release|x86.Build.0 = Release|x86
+		{5BA7A097-47CE-4CA6-A111-FF729241AB6C}.Debug|x86.ActiveCfg = Debug|x86
+		{5BA7A097-47CE-4CA6-A111-FF729241AB6C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

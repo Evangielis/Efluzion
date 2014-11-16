@@ -1,0 +1,74 @@
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Efluzion.exe
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Efluzion.pdb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\obj\x86\Debug\Efluzion.exe
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\obj\x86\Debug\Efluzion.pdb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\EronRune.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FlazRune.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuinRune.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\RuneBar.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\Stage.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\EronRuneLight.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FlazRuneLight.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuinRuneLight.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\obj\x86\Debug\Efluzion.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\TargetMob.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuxboltSpell.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\EronSpriteMob.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FlazSpriteMob.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuinSpriteMob.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\PyreboltSpell.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\ArcboltSpell.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\ArcballSpell.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuxballSpell.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\PyreballSpell.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\ArcstreamSpell.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FinallightSpell.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\PyroblastSpell.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\StdFont.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FontMini.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\SecundaFortuna.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\SecundaFortuna.wma
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\MegaraptorGameOver.xnb
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\MegaraptorGameOver.wma
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Efluzion.exe.manifest
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Efluzion.application
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\obj\x86\Debug\Efluzion.exe.manifest
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\obj\x86\Debug\Efluzion.application
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\EronRune.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FlazRune.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuinRune.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\RuneBar.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\Stage.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\EronRuneLight.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FlazRuneLight.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuinRuneLight.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\TargetMob.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuxboltSpell.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\EronSpriteMob.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FlazSpriteMob.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuinSpriteMob.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\PyreboltSpell.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\ArcboltSpell.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\ArcballSpell.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuxballSpell.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\PyreballSpell.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\ArcstreamSpell.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FinallightSpell.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\PyroblastSpell.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\StdFont.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FontMini.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\SecundaFortuna.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\MegaraptorGameOver.xnb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\SecundaFortuna.wma
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\MegaraptorGameOver.wma
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Efluzion.exe.manifest
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Efluzion.application
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Efluzion.exe
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Efluzion.pdb
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\obj\x86\Debug\Efluzion.exe.manifest
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\obj\x86\Debug\Efluzion.application
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\obj\x86\Debug\Efluzion.exe
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\obj\x86\Debug\Efluzion.pdb

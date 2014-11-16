@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>EronRune.png</Source>
+      <Name>EronRune</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\EronRune.xnb</Output>
+      <Time>2013-04-20T10:42:59.7661297-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FlazRune.png</Source>
+      <Name>FlazRune</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FlazRune.xnb</Output>
+      <Time>2013-04-20T10:43:00.7461857-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LuinRune.png</Source>
+      <Name>LuinRune</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuinRune.xnb</Output>
+      <Time>2013-04-20T10:43:01.2782161-04:00</Time>
+    </Item>
+    <Item>
+      <Source>RuneBar.png</Source>
+      <Name>RuneBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\RuneBar.xnb</Output>
+      <Time>2013-04-20T01:06:32.8871541-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Stage.png</Source>
+      <Name>Stage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\Stage.xnb</Output>
+      <Time>2013-04-20T01:06:25.926756-04:00</Time>
+    </Item>
+    <Item>
+      <Source>EronRuneLight.png</Source>
+      <Name>EronRuneLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\EronRuneLight.xnb</Output>
+      <Time>2013-04-20T01:37:40.089952-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FlazRuneLight.png</Source>
+      <Name>FlazRuneLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FlazRuneLight.xnb</Output>
+      <Time>2013-04-20T01:37:41.4440294-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LuinRuneLight.png</Source>
+      <Name>LuinRuneLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuinRuneLight.xnb</Output>
+      <Time>2013-04-20T01:37:38.3888547-04:00</Time>
+    </Item>
+    <Item>
+      <Source>TargetMob.png</Source>
+      <Name>TargetMob</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\TargetMob.xnb</Output>
+      <Time>2013-04-22T18:01:33.8115521-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LuxboltSpell.png</Source>
+      <Name>LuxboltSpell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuxboltSpell.xnb</Output>
+      <Time>2013-04-22T19:48:06.8482128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>EronSpriteMob.png</Source>
+      <Name>EronSpriteMob</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\EronSpriteMob.xnb</Output>
+      <Time>2013-04-23T02:21:51.5756881-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FlazSpriteMob.png</Source>
+      <Name>FlazSpriteMob</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FlazSpriteMob.xnb</Output>
+      <Time>2013-04-23T02:21:51.5806884-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LuinSpriteMob.png</Source>
+      <Name>LuinSpriteMob</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuinSpriteMob.xnb</Output>
+      <Time>2013-04-23T02:21:51.5706878-04:00</Time>
+    </Item>
+    <Item>
+      <Source>PyreboltSpell.png</Source>
+      <Name>PyreboltSpell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\PyreboltSpell.xnb</Output>
+      <Time>2013-04-23T02:53:16.9375247-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ArcboltSpell.png</Source>
+      <Name>ArcboltSpell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\ArcboltSpell.xnb</Output>
+      <Time>2013-04-23T02:53:37.0556753-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ArcballSpell.png</Source>
+      <Name>ArcballSpell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\ArcballSpell.xnb</Output>
+      <Time>2013-04-23T03:17:25.1223561-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LuxballSpell.png</Source>
+      <Name>LuxballSpell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\LuxballSpell.xnb</Output>
+      <Time>2013-04-23T03:17:40.733249-04:00</Time>
+    </Item>
+    <Item>
+      <Source>PyreballSpell.png</Source>
+      <Name>PyreballSpell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\PyreballSpell.xnb</Output>
+      <Time>2013-04-23T03:17:40.7272486-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ArcstreamSpell.png</Source>
+      <Name>ArcstreamSpell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\ArcstreamSpell.xnb</Output>
+      <Time>2013-04-23T11:46:58.1588925-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FinallightSpell.png</Source>
+      <Name>FinallightSpell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FinallightSpell.xnb</Output>
+      <Time>2013-04-23T11:46:58.1638927-04:00</Time>
+    </Item>
+    <Item>
+      <Source>PyroblastSpell.png</Source>
+      <Name>PyroblastSpell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\PyroblastSpell.xnb</Output>
+      <Time>2013-04-23T11:46:58.1668929-04:00</Time>
+    </Item>
+    <Item>
+      <Source>StdFont.spritefont</Source>
+      <Name>StdFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\StdFont.xnb</Output>
+      <Time>2013-04-23T17:38:05.7974513-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FontMini.spritefont</Source>
+      <Name>FontMini</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\FontMini.xnb</Output>
+      <Time>2013-04-23T17:38:22.3073956-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SecundaFortuna.mp3</Source>
+      <Name>SecundaFortuna</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\SecundaFortuna.xnb</Output>
+      <Extra>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\SecundaFortuna.wma</Extra>
+      <Time>2013-04-23T16:43:27.6549523-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MegaraptorGameOver.mp3</Source>
+      <Name>MegaraptorGameOver</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\MegaraptorGameOver.xnb</Output>
+      <Extra>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\MegaraptorGameOver.wma</Extra>
+      <Time>2013-04-23T17:00:57.2229842-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\EfluzionContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\EfluzionContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\Efluzion\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS.0\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-05-28T13:05:50.078125-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

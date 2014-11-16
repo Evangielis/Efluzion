@@ -1,0 +1,2 @@
+C:\Users\Lee\Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\EfluzionContent\obj\x86\Debug\EfluzionContent.contentprojResolveAssemblyReference.cache
+C:\Documents and Settings\Lee.HAL\My Documents\Visual Studio 2010\Projects\Efluzion\Efluzion\EfluzionContent\obj\x86\Debug\ResolveAssemblyReference.cache
